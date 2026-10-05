@@ -1,0 +1,155 @@
+0:00 dear students welcome to this session in
+0:02 today's session we are going to see how
+0:04 to classify the pde of order 2 the most
+0:08 general form of the linear partial
+0:10 differential equation of second order
+0:13 with two independent variables we are
+0:15 dealing X and Y is of this form where
+0:18 this a b c f and g are functions of X
+0:23 and Y only sometime like if you see a =
+0:27 4x² you get sometime we get a = to 4
+0:31 that means x^ 0 and Y power 0 so either
+0:34 we get functions of X and Y or we may
+0:37 get constants and this a to G cannot
+0:41 have the derivative of the independent
+0:43 variables X and Y now to classify the PD
+0:47 Our concern is going to be on a b and c
+0:51 and we don't want to worry about this x
+0:54 y and first order partial derivatives so
+0:57 I'm going to consider the function like
+0:59 this a a B and C are my concern and also
+1:03 for Simplicity I'm going to consider do
+1:06 U by dox means U do U by do y means u y
+1:10 similarly do sare U by do x² is u x and
+1:15 do sare U by do y sare is u y it is easy
+1:20 and convenient for me to solve the
+1:23 problem okay let us go into the concepts
+1:25 and the problems so the above equations
+1:28 are set to be elliptic we found the
+1:30 coefficients a b c when b² - 4 a c is
+1:35 less than 0 and it is parabolic if b² -
+1:39 4 a c is equal to0 and hyperbolic if it
+1:43 is greater than 0 let us go into the
+1:46 problems what type of PD is 1D wave
+1:49 equation either they can give the
+1:51 partial differential equation directly
+1:53 or they can ask you a theoretical
+1:55 question like this we know that the 1D
+1:57 wave equation is y t is equal to a² y x
+2:03 now rewriting this equation we get like
+2:06 this even we can write like a² y x - y t
+2:11 = 0 that is also correct now we have the
+2:14 form a u x b uy c u y then their
+2:20 functions is equal to zero here instead
+2:23 of u x I'm considering y t and then
+2:26 instead of u y I'm considering y x even
+2:30 if you consider this equation that is
+2:33 also will give the same answer let us
+2:36 see so a equal 1 B is 0 and C = - A squ
+2:42 so once you calculate b s - 4 a c we'll
+2:46 be getting 4 into 1 into - A squ so
+2:49 finally we'll be getting 4 a s so 4 is
+2:52 also positive and a square is going to
+2:55 be always positive whether a is negative
+2:57 or positive therefore four 4 a square is
+3:00 always greater than zero then we declare
+3:04 that 1D wave equation is hyperbolic type
+3:07 PD next example what type of PD is 1D
+3:12 heat equation so we know that 1D heat
+3:14 equation is U is = alpha s u x now
+3:20 either I can write like U = Alpha sare u
+3:24 x or alpha s u xus u = 0 in both cases
+3:30 I'm going to get the same answer let us
+3:32 see here a = to- Alpha squ B is 0 C is 0
+3:38 suppose if you are writing the problem
+3:40 like this in this case a = alpha squ B =
+3:44 0 C is equal 0 when you calculate b s -
+3:48 4 A C 0 - 4 - alpha s into 0 similarly
+3:54 here also b² - 4 a c is = 0 - 4 4 into
+4:00 Alpha square into 0 in both the cases
+4:03 I'm going to get 0 as my answer so I can
+4:06 take either in this way or in this way
+4:09 therefore the 1D equation is parabolic
+4:12 type next they can give a direct problem
+4:14 like this so I will write in a
+4:16 simplified way Alpha squ u x u y is
+4:21 equal to U now I will simplify this and
+4:25 bring like this so my capital A is Alpha
+4:28 Square capital B 0 C is also Alpha squ
+4:32 now calculating b square - 4 a c will be
+4:36 getting 0 - 4 into Alpha sare into Alpha
+4:40 Square so my final answer is Alpha power
+4:43 4 Alpha power 4 is always positive but
+4:47 we have -4 so -4 into Alp power 4 is
+4:51 always less than 0 this problem is
+4:54 elliptic type next problem what is the
+4:57 PD for lapas equation we know where well
+5:00 laas equation is u x + u y = to 0 here a
+5:06 is 1 C is 1 and B is 0 so b s - 4 a c
+5:11 I'll be directly getting Min -4 that is
+5:14 less than 0 so I will declare this as
+5:16 elliptic let us see the next problem Pon
+5:19 equation u x + u y is equal to f of x
+5:23 comma Y and don't get panic you can
+5:25 remember this equations very easily most
+5:29 probably they will give the partial
+5:30 differential equation and tell you to
+5:32 classify if they give the theoretical
+5:35 things you should have to remember now
+5:37 the same situation A = 1 B = 0 and c = 1
+5:42 and Pon equation is also elliptic type
+5:45 and let us see some good problem so this
+5:48 is a direct problem where I can write a
+5:51 = y² BAL to 0 C = to 1 and all the
+5:57 remaining terms are dummy we don't need
+5:58 it now when we found b 2 - 4 a c we'll
+6:03 be getting 0 - 4 Y 2 so - 4 y s so we
+6:09 have two chances since X and Y are the
+6:12 independent variables we have to give
+6:14 the justification for the different
+6:16 values of Y if Y is either positive or
+6:20 negative it doesn't matter y square is
+6:23 going to be positive so if y = to0 then
+6:28 I will say the b² - 4 a c equal to 0 it
+6:32 is parabolic if y not equal to 0
+6:36 whatever you put negative or positive
+6:38 value - 4 y² is always negative so if y
+6:43 not equal to 0 in both the cases it is
+6:46 going to be elliptic hope you understand
+6:49 you have to justify when the variable
+6:51 gets positive value or negative value or
+6:54 zero or simply if either X or Y there in
+6:57 the answer you have to mention what
+6:59 happens when it is greater than Z less
+7:02 than 0 and equal to Z Now let us write a
+7:06 is equal to X B = 0 C = -1 in this case
+7:11 b s - 4 a c is going to be 0 - 4 intox
+7:16 into -1 that is my 4X so now we have to
+7:20 discuss three cases what happened when X
+7:23 = to 0 x greater than 0 and x less than
+7:26 0 so if x equal to 0 we say it as
+7:30 parabolic type if x less than 0 then b s
+7:33 - 4 a c also less than 0 so it is
+7:36 elliptic type when X greater than 0 we
+7:39 see b² - 4 a c also greater than 0 so we
+7:43 say it as hyperbolic type suppose in
+7:46 your exams if you get a problem like
+7:48 this 4X y then you have to discuss both
+7:52 X and Y what do you have to say if x or
+7:55 y are both X Y is zero then it is
+7:58 parabolic H if x greater than 0 y
+8:02 greater than 0 then it is hyperbolic if
+8:05 x less than 0 and y greater than 0 or Y
+8:09 Versa if x greater than 0 and Y less
+8:11 than 0 you're going to get 4X Y is
+8:14 negative then we have to say it is
+8:16 elliptic so we have to write the
+8:19 justification according to the solution
+8:22 if it is constant we will be getting a
+8:24 single answer if it is a variable we
+8:26 have to classify or we have to give the
+8:29 justification for each value of x or y
+8:32 hope you understand thank you subscribe
+8:34 our Channel share to your friends let
+8:36 everyone get benefited see you in the
+8:38 next video friends
